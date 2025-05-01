@@ -1,0 +1,6 @@
+2025-04-30 11:04:52,989 - New user registered: test
+2025-04-30 11:05:22,826 - Failed OTP attempt for test
+2025-04-30 11:07:30,886 - New user registered: oisin
+2025-04-30 11:07:53,267 - User logged in: oisin
+2025-04-30 11:08:00,968 - User 2 deposited $50000.00
+2025-04-30 11:08:06,234 - User 2 withdrew $1000.00
